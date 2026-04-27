@@ -1,6 +1,6 @@
-<img width="491" height="654" alt="screenshot" src="https://github.com/user-attachments/assets/98bcf064-8eb4-4458-9dde-e84dc19a773a" />
-# Chat Bubble UI
 
+# Chat Bubble UI
+<img width="491" height="654" alt="screenshot" src="https://github.com/user-attachments/assets/98bcf064-8eb4-4458-9dde-e84dc19a773a" />
 ## Product Description
 
 Chat Bubble UI is a lightweight, fully client-side chat interface built with plain HTML, CSS, and vanilla JavaScript — no frameworks, no dependencies. It delivers a polished, dark-themed messaging experience with incoming and outgoing message bubbles, animated typing indicators, timestamps, and simulated bot replies. Designed as a reusable UI component, it can serve as a foundation for any messaging feature — from customer support widgets to AI chat assistants.
