@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chat</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="chat-wrapper">
+
+      <!-- Header -->
+      <header class="chat-header">
+        <div class="avatar">A</div>
+        <div class="header-info">
+          <span class="header-name">Alex</span>
+          <span class="header-status">Online</span>
+        </div>
+      </header>
+
+      <!-- Messages -->
+      <main class="chat-messages" id="messages"></main>
+
+      <!-- Typing indicator -->
+      <div class="typing-indicator" id="typing" aria-live="polite" aria-label="Alex is typing">
+        <span></span><span></span><span></span>
+      </div>
+
+      <!-- Input -->
+      <footer class="chat-footer">
+        <input
+          type="text"
+          id="chat-input"
+          class="chat-input"
+          placeholder="Type a message…"
+          autocomplete="off"
+          aria-label="Message input"
+        />
+        <button id="send-btn" class="send-btn" aria-label="Send message">&#9658;</button>
+      </footer>
+
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
