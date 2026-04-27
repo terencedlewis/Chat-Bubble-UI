@@ -1,3 +1,4 @@
+<img width="491" height="654" alt="screenshot" src="https://github.com/user-attachments/assets/98bcf064-8eb4-4458-9dde-e84dc19a773a" />
 # Chat Bubble UI
 
 ## Product Description
@@ -60,10 +61,11 @@ Build a responsive, accessible chat UI that supports two-way message rendering, 
 
 > _Add a screenshot of the chat UI here._
 >
-> To add one: take a screenshot, save it as `screenshot.png` in the project root, then replace this block with:
+> To add one: take a screenshot, save it as `<img width="491" height="654" alt="screenshot" src="https://github.com/user-attachments/assets/0a8a79f0-31b4-43da-be6e-a56b8975656d" />
+` in the project root, then replace this block with:
 >
 > ```md
-> ![Chat Bubble UI Demo](screenshot.png)
+> 
 > ```
 
 ---
